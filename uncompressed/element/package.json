@@ -1,0 +1,14 @@
+{
+  "id": "element",
+  "name": "Element",
+  "version": "1.0.0",
+  "description": "Element",
+  "main": "index.js",
+  "author": "Jake Lee <ferdi@jakelee.co.uk>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.element.io/",
+    "hasTeamId": false,
+    "hasNotificationSound": true
+  }
+}
